@@ -1,7 +1,7 @@
 {
   "groups": [{
       "id": 1,
-      "group_name": "Cirulisi",
+      "group_name": "Cirulisid",
       "group_icon": "<i style='background-color: #cbe4f9; color: #4C90C3;' i class='far fa-sun'></i>"
   }],
   "students": [{

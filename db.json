@@ -1,0 +1,31 @@
+{
+  "groups": [{
+      "id": 1,
+      "group_name": "Cirulisi",
+      "group_icon": "<i style='background-color: #cbe4f9; color: #4C90C3;' i class='far fa-sun'></i>",
+      "students": [{
+          "id": 1,
+          "first_name": "Baird",
+          "last_name": "Gennerich",
+          "birth_date": "22.06.2015",
+          "gender": "Male",
+          "mothers_name": "Julienne",
+          "mothers_phone": "313-230-0514",
+          "fathers_name": "Shurlock",
+          "fathers_phone": "475-476-2378",
+          "notes": "intermediate"
+        },
+        {
+          "id": 2,
+          "first_name": "Cash",
+          "last_name": "Ockleshaw",
+          "birth_date": "22.01.2015",
+          "gender": "Female",
+          "mothers_name": "Cahra",
+          "mothers_phone": "256-750-5191",
+          "fathers_name": "Malcolm",
+          "fathers_phone": "976-228-0763",
+          "notes": "uniform"
+        }]
+      }]
+}

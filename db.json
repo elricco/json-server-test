@@ -3,8 +3,10 @@
       "id": 1,
       "group_name": "Cirulisi",
       "group_icon": "<i style='background-color: #cbe4f9; color: #4C90C3;' i class='far fa-sun'></i>",
-      "students": [{
+      }],
+        "students": [{
           "id": 1,
+          "groupId": 1,
           "first_name": "Baird",
           "last_name": "Gennerich",
           "birth_date": "22.06.2015",
@@ -17,6 +19,7 @@
         },
         {
           "id": 2,
+          "groupId": 1,          
           "first_name": "Cash",
           "last_name": "Ockleshaw",
           "birth_date": "22.01.2015",
@@ -27,5 +30,4 @@
           "fathers_phone": "976-228-0763",
           "notes": "uniform"
         }]
-      }]
 }
